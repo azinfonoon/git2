@@ -6,6 +6,12 @@
         {
             Console.WriteLine("Hello, World!");
         Console.ReadLine();
+
+            if (true)
+            {
+                Console.WriteLine("this is branch test");
+            }
+
         }
     }
 }
