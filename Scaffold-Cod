@@ -1,0 +1,1 @@
+Scaffold-DbContext "server=.;database=DatabasName;Trusted_connection=true;trustservercertificate=true" microsoft.entityframeworkcore.sqlserver -outputdir Models/Db -force
